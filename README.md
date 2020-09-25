@@ -1,4 +1,4 @@
-# NetCoreConf 2020 - Desarrolla tu app de Realidad Mixta 🚀
+# 🚀 NetCoreConf 2020 - Desarrolla tu app de Realidad Mixta 
 
 Recursos necesarios para desarrollar la APP de Realidad Mixta con Power Apps presentada durante la NetCoreConf Virtual 2
 
